@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="thuchanh4.css" />
+  </head>
+  <body>
+    <!doctype html>
+    <html lang="en">
+      <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>baithuchanh4</title>
+      </head>
+      <body>
+        <div class="menu">
+          <div class="menu1">
+            <a href="#">TRANG CHỦ</a>
+            <a href="#">GIỚI THIỆU</a>
+            <a href="#">ĐỒNG HỒ NAM</a>
+            <a href="#">ĐỒNG HỒ NỮ</a>
+            <a href="#">LIÊN HỆ</a>
+            <a href="#">GIỜ HÀNG</a>
+          </div>
+        </div>
+        <p>Sản phẩm bán chạy</p>
+        <div class="body">
+          <div class="ver1">
+            <button class="submit">-29%</button>
+            <img src="imagebaithuchanh4/anh1.png" />
+            <div class="ver11">
+              <b>Classio 01</b><br /><span class="track">7000 đ</span
+              ><span class="money">5000 đ</span>
+              <button>THÊM VÀO GIỎ</button>
+            </div>
+            <hr />
+          </div>
+          <div class="ver2">
+            <button class="submit">-29%</button>
+            <img src="imagebaithuchanh4/anh2.png" />
+            <div class="ver21">
+              <b>Classio 02</b><br /><span class="track">7000 đ</span
+              ><span class="money">5000 đ</span>
+              <button>THÊM VÀO GIỎ</button>
+            </div>
+            <hr />
+          </div>
+          <div class="ver3">
+            <button class="submit">-29%</button>
+            <img src="imagebaithuchanh4/anh3.png" />
+            <div class="ver31">
+              <b>Classio 03</b><br /><span class="track">7000 đ</span
+              ><span class="money">5000 đ</span>
+              <button>THÊM VÀO GIỎ</button>
+            </div>
+            <hr />
+          </div>
+          <div class="ver4">
+            <button class="submit">-29%</button>
+            <img src="imagebaithuchanh4/anh4.png" />
+            <div class="ver41">
+              <b>Classio 04</b><br /><span class="track">7000 đ</span
+              ><span class="money">5000 đ</span>
+              <button>THÊM VÀO GIỎ</button>
+            </div>
+            <hr />
+          </div>
+        </div>
+      </body>
+      <div class="copyright">
+        <p>
+          ©Bản quyền thuộc về <b>Bùi Tố Uyên </b><br />
+          < Không copy dưới mọi hình thức>
+        </p>
+      </div>
+    </html>
+  </body>
+</html>
